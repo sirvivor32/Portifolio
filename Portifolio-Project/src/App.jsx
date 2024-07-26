@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "./components/Navbar/Navbar";
-import Hero from "./components/Navbar/Hero/Hero"; // Ensure the path is correct
+import Hero from "./components/Hero/Hero"; // Ensure the path is correct
 
 function App() {
     return (
