@@ -1,4 +1,5 @@
-const Services_Data = [
+
+const Services_data = [
     {
       s_no: '01',
       s_name: "Web Design",
@@ -26,5 +27,5 @@ const Services_Data = [
     }
   ];
   
-  export default services;
+  export default Services_data;
   
