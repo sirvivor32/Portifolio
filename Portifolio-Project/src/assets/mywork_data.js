@@ -1,8 +1,8 @@
-import Application_design from '../assets/Application_design.jpg'
-import web_animation from '../assets/web_animation.jpg'
+import Application_design from '../assets/design4.jpg'
+import web_animation from '../assets/design2.jpg'
 import Web_design from '../assets/Web_Design.jpg'
 import social_media from '../assets/social_media.jpg'
-import graphics from '../assets/Graphics.jpg'
+import graphics from '../assets/design1.png'
 
 const mywork_data = [
     {

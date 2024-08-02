@@ -69,3 +69,17 @@
     height: 100px;
     filter: invert(30);
 }
+@media(max-width:800px){
+    .footer{
+        margin: 40px 50px;
+    }
+    .footer-top{
+        flex-direction: column;
+        gap: 20px;
+    }
+    .footer-bottom{
+        display: flex;
+        flex-direction: column-reverse;
+        margin: 50px;
+    }
+}
